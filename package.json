@@ -1,0 +1,22 @@
+{
+  "name": "simple-portfolio",
+  "version": "1.0.0",
+  "description": "a simple portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArashDai/simplePortfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Arash Dai, Gery Egan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArashDai/simplePortfolio/issues"
+  },
+  "homepage": "https://github.com/ArashDai/simplePortfolio#readme"
+}
