@@ -5,23 +5,19 @@ var IndexRoute = require('react-router').IndexRoute;
 var Link = require('react-router').Link;
 
 
-
 var App = React.createClass({
   render:function(){
     return(
 
       <div>
 
-           
           <div className='container-fluid'>
             {this.props.children}
-          </div>
-          
+          </div>          
 
       </div>
       
-      )
-  }
+  )}
 });
 
 

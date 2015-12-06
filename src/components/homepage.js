@@ -2,23 +2,19 @@ var React = require('react');
 
 
 
-var HomePage = React.createClass({
+var homepage = React.createClass({
 
-  render :function(){
+  render:function(){
     return(
 
      <div>
-        <div> some pictures will go here </div>
-        <div> some pictures will go here </div>
+     
+      hello
+
      </div> 
 
-
-
-    )
-  }
-
-
+  )}
 
 });
 
-module.exports = HomePage;
+module.exports = homepage;
