@@ -4,12 +4,12 @@ var Link = require('react-router').Link;
 
 var Route = Router.Route;
 
-var Header = React.createClass({
+var Footer = React.createClass({
 
   render:function(){
 
     return(
-      <nav className="navbar navbar-fixed-top container-fluid" role="navigation"  id="navbarHeader">
+      <nav className="navbar navbar-fixed-bottom" role="navigation"  id="footer">
         
         <div className="navbar-header">
           <button type="button" className="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -18,15 +18,15 @@ var Header = React.createClass({
             <span className="icon-bar"></span>
             <span className="icon-bar"></span>
           </button>
-          <Link className="navbar-brand" to="/" id="navbarHeader">Casa Home Staging</Link>
+          <Link className="navbar-brand" to="/" id="footer">Casa Home Staging</Link>
         </div>
       
         
         <div className="collapse navbar-collapse navbar-ex1-collapse">
-          <ul className="nav navbar-nav" id="navbarHeader">
-            <li><Link to="/about">About</Link></li>
-            <li><Link to="/contactus">Contact us</Link></li>
-            <li><Link to="/gallery">Gallery</Link></li>
+          <ul className="nav navbar-nav">
+            <li><Link to="/about">Facebook</Link></li>
+            <li><Link to="/contactus">Twitter</Link></li>
+            
           </ul>
 
         </div>
@@ -36,4 +36,4 @@ var Header = React.createClass({
 })
 
 
-module.exports = Header;
+module.exports = Footer;

@@ -1,8 +1,45 @@
 body {
-    background-color: #382404;
+    background-color: #6E4B1F;
     color: #dcac0b;
+    width:100%;
 }
+
 #navbarHeader {
-	background-color: #b7a076;
-	color: #dcac0b;
+	background-color: white;
+	color: #000000;
+  border:none;
 }
+
+#homepage{
+  margin-top:3.9em;
+  width:100%;
+}
+#homepageimg{
+  width:100%;
+}
+#homepagetxt{
+  width:100%;
+}
+
+.Card{
+  background-color: #F0D394;
+  min-height:15em;
+  width:95%;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  padding-top:1em; 
+  padding-bottom:1em;
+}
+
+#footer{
+  background-color: white;   
+  border:none;
+}
+
+/*
+text color: #382404
+
+#b7a076;
+
+
+*/

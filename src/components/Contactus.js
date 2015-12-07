@@ -1,18 +1,15 @@
 var React = require('react');
 
 
-var Contactus = React.createClass({
-  render:function(){
-    return(
-      
-      <div>
-
-        this is the contact page
-
-      </div>
-  )}
-
-});
+var ContactUs = React.createClass({
+	render:function(){
+		return(
+			<div>
+			This is the ContactUs Page.
+			</div>
+			
+			)}
 
 
-module.exports = Contactus;
+})
+module.exports = ContactUs;
