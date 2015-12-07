@@ -6,9 +6,12 @@ var Gallery = React.createClass({
   render:function(){
     return(
       
-      <div>
+      <div className='container-fluid' id='contactpage'>
 
-        this is the gallery page
+        <div className='container-fluid Card text-center'>
+
+
+        </div>
 
       </div>
   )}

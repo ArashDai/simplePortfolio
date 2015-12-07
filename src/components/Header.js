@@ -9,7 +9,7 @@ var Header = React.createClass({
   render:function(){
 
     return(
-      <nav className="navbar navbar-fixed-top container-fluid" role="navigation"  id="navbarHeader">
+      <nav className="navbar navbar-default navbar-fixed-top container-fluid" role="navigation"  id="navbarHeader">
         
         <div className="navbar-header">
           <button type="button" className="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">

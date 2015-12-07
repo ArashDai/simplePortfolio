@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "a simple portfolio site",
   "main": "index.js",
-  "dependencies":{
+  "dependencies": {
     "bootstrap": "^3.3.5",
     "express": "^4.13.3",
     "flux": "^2.1.1",
     "history": "^1.13.0",
+    "masonry-layout": "^3.3.2",
     "react": "^0.14.0",
     "react-dom": "^0.14.0",
     "react-router": "^1.0.0-rc3",
