@@ -10,13 +10,12 @@ var Routes = (
 
       <IndexRoute component={require('./components/homepage')} />
 
+       <Route path='/about' component={require('./components/About')}/>
+       <Route path='/contactus' component={require('./components/Contactus')}/>
+       <Route path='/gallery' component={require('./components/Gallery')}/>
 
     </Route>
 
   );
 
 module.exports = Routes;
-
-//<Route path='/about' component={require('./components/about')}/>
-// <Route path='/contactus' component={require('./components/contactus')}/>
-// <Route path='/gallery' component={require('./components/gallery')}/>

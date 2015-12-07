@@ -1,14 +1,13 @@
 var React = require('react');
 
 
-var Gallery = React.createClass({
-
+var Contactus = React.createClass({
   render:function(){
     return(
       
       <div>
 
-        this is the gallery page
+        this is the contact page
 
       </div>
   )}
@@ -16,5 +15,4 @@ var Gallery = React.createClass({
 });
 
 
-
-module.exports = Gallery;
+module.exports = Contactus;
