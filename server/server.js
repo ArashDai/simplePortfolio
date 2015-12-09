@@ -8,5 +8,6 @@ app.get('*', function (request, response){
   response.sendFile(path.resolve('client', 'index.html'))
 })
 
+var PORT = process.env.PORT || 3000;
 
-app.listen(3000);
+app.listen(PORT);
