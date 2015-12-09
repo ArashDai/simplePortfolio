@@ -15,8 +15,8 @@ var About = React.createClass({
         </p>  
        <hr/>
         <div className='row'>
-          <img className='col-xs-12 col-sm-offset-1 col-sm-5' src='../assets/8541324913_b9a3c0636f_o.jpg' id='aboutpageimg'/>
-          <img className='hidden-xs col-sm-5' src='../assets/5571576218_3ac3a56b82_o.png' id='aboutpageimg'/>
+          <img className='col-xs-12 col-sm-offset-1 col-sm-5' src='https://i.imgur.com/QL0ERzN.jpg' id='aboutpageimg'/>
+          <img className='hidden-xs col-sm-5' src='https://i.imgur.com/5ahvuoz.png' id='aboutpageimg'/>
         </div> 
        <hr/>
         <p className='text-center'>

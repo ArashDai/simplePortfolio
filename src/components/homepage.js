@@ -12,7 +12,7 @@ var homepage = React.createClass({
      
       <div className='container-fluid Card' id='homepageimg'>
         
-        <img src='../assets/14366938271_225109c3f4_o.jpg' id='homepageimg'/>
+        <img src='http://i.imgur.com/4ruiKc0.jpg' id='homepageimg'/>
 
       </div>
       <div className='container-fluid text-center Card' id='homepagetxt'>
