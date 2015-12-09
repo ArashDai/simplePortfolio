@@ -6,11 +6,9 @@ var Gallery = React.createClass({
   render:function(){
     return(
       
-      <div className='container-fluid Card text-center' id='contactpage'>
+      <div className='container-fluid Card text-center row' id='contactpage'>
 
-        
-          <div className='container-fluid row'>
-             <img id='galleryimage' src='../assets/4333107736_b200fb2fa0_o.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+            <img id='galleryimage' src='../assets/4333107736_b200fb2fa0_o.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
 
             <img id='galleryimage' src='../assets/5204325798_f391117172_o.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
 
@@ -25,9 +23,6 @@ var Gallery = React.createClass({
             <img id='galleryimage' src='../assets/17037425094_e002135206_o.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
 
             <img id='galleryimage' src='../assets/8222566105_7edd7a7394_o.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
-          </div>
-
-      
 
       </div>
   )}
