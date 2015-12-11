@@ -7,6 +7,7 @@ body {
 #navbarHeader {
 	background-color: #FFEED0;
 	color: #000000;
+  display: inline;
 }
 hr{
   background-color:brown;
@@ -60,6 +61,11 @@ hr{
 
 #galleryimage{
   padding:.1em;
+
+}
+
+#logo{
+max-width: 3em;
 
 }
 
