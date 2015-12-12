@@ -3,23 +3,42 @@ body {
     color: #dcac0b;
     width:100%;
 }
-
+.btn{
+  background-color:white;
+  color:#382404;
+  border:none;
+}
 #navbarHeader {
 	background-color: #FFEED0;
 	color: #000000;
   display: inline;
 }
+
 hr{
   background-color:brown;
   border-color:#382404;
 }
+
 #homepage{
-  margin-top:3.9em;
+  margin-top:4.4em;
   margin-bottom:3.9em;
   width:100%;
 }
+
+#homepageCard{
+  width:100%;
+
+}
+
 #homepageimg{
   width:100%;
+  max-height:50em;
+}
+
+#carouseltxt{
+  font-family:'helvetica';
+  color:white;
+  top:-9em;
 }
 #homepagetxt{
   width:100%;
