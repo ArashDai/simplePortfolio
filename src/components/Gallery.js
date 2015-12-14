@@ -18,11 +18,19 @@ var Gallery = React.createClass({
            
             <img id='galleryimage' src='https://i.imgur.com/4ruiKc0.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
 
-            <img id='galleryimage' src='https://i.imgur.com/DdMEszs.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+            <img id='galleryimage' src='https://i.imgur.com/C3T1fVq.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
             
             <img id='galleryimage' src='https://i.imgur.com/3oHnSiL.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
 
             <img id='galleryimage' src='https://i.imgur.com/cvMfe49.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+
+            <img id='galleryimage' src='https://i.imgur.com/wIB1N53.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+
+            <img id='galleryimage' src='https://i.imgur.com/X0bTBuF.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+
+            <img id='galleryimage' src='https://i.imgur.com/trhdoBz.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+
+
 
       </div>
   )}

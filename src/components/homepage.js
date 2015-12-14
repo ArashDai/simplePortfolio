@@ -37,8 +37,7 @@ var homepage = React.createClass({
                         <div className="carousel-caption">
                             <h1 className='text-center' id='carouseltxt'>
                               ...Chic transformations
-                            </h1>
-                            
+                            </h1> 
                             <p><Link className="btn btn-lg btn-primary" to="/about" role="button">Learn more</Link></p>
                         </div>
                     </div>
@@ -63,11 +62,6 @@ var homepage = React.createClass({
 
 
       </div>
-      <div className='container-fluid text-center Card' id='homepagetxt'>
-        
-        ......Unlock inspiring visuals of stimulating spaces and chic transformations.
-      </div>
-      
       
      </div> 
 
