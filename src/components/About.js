@@ -11,7 +11,9 @@ var About = React.createClass({
         
 
         <p className='text-center'>
-          Swiftly and economically furnish and accessorize a vacant property to appeal to potential buyers. CASA Home Stagers also bring on a professional home cleaning service to make a space sparkle and prepped for a speedy sale.
+        
+          Silvia Martignago Bettio, a native of Treviso, Italy,  brings Italian flair and influence to home styling. With a background in interior design and a passion for chic design, Silvia strives to compile rooms with sophistication and functionality.
+
         </p>  
        <hr/>
         <div className='row'>
@@ -20,18 +22,13 @@ var About = React.createClass({
         </div> 
        <hr/>
         <p className='text-center'>
-         Emphasize a fresh look or stylish space with a change of scenery. From organization and finished carpentry to paint selection and complete furniture repurposing, CASA Home Stagers redefines spaces and adds innovative character.
-          <br></br>
-          Areas Served:  Greater Los Angeles
-
-
+         
+              Lita Luhrsen is an MBA graduate and licensed realtor at Sotheby's International Realty with 20 years of extensive expertise in home remodeling and complete property makeovers. Lita is a true professional and savvy business woman who has first hand knowledge of what it takes to successfully sell a property for top value. 
         </p>
-
-
+      
       </div>
      
-
-      </div>
+    </div>
   )}
 
 });

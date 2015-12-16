@@ -26,8 +26,8 @@ var Header = React.createClass({
             <img id='logo' src='../assets/button logo.png'/>
           </Link>
           
-          <Link  to="/" className="navbar-brand" id="navbarHeader">
-            Casa Home Staging
+          <Link  to="/" className="navbar-brand" id="pageSubTitle">
+            <span id='pageTitle' >Casa</span> Home Staging 
           </Link>
         
         </div>
@@ -35,15 +35,19 @@ var Header = React.createClass({
         
         <div className="collapse navbar-collapse navbar-ex1-collapse  ">
           <ul className="nav navbar-nav text-center visible-xs" id="navbarHeader">
-            <li><Link to="/about">Services</Link></li>
-            <li><Link to="/contactus">Contact us</Link></li>
+            <li><Link to="/about">About Us</Link></li>
             <li><Link to="/gallery">Gallery</Link></li>
+            <li><Link to="/services">Services</Link></li>
+            <li><Link to="/contactus">Contact Us</Link></li>
+            
           </ul>
 
           <ul className="nav navbar-nav hidden-xs pull-right" id="navbarHeader">
-            <li><Link to="/about">Services</Link></li>
-            <li><Link to="/contactus">Contact us</Link></li>
+            <li><Link to="/about">About Us</Link></li>
             <li><Link to="/gallery">Gallery</Link></li>
+            <li><Link to="/services">Services</Link></li>
+            <li><Link to="/contactus">Contact Us</Link></li>
+            
           </ul>
         </div>
 

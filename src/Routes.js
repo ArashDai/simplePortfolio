@@ -13,7 +13,7 @@ var Routes = (
        <Route path='/about' component={require('./components/About')}/>
        <Route path='/contactus' component={require('./components/Contactus')}/>
        <Route path='/gallery' component={require('./components/Gallery')}/>
-
+       <Route path='/services' component={require('./components/Services')}/>
     </Route>
 
   );

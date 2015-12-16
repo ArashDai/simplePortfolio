@@ -14,6 +14,16 @@ body {
   display: inline;
 }
 
+#pageTitle {
+  font-size: 36pt;
+  color: #382404;
+  font-family:Niconne;
+}
+#pageSubTitle{
+  font-size:20pt;
+  color: #382404;
+}
+
 hr{
   background-color:brown;
   border-color:#382404;
@@ -25,10 +35,6 @@ hr{
   width:100%;
 }
 
-#homepageCard{
-  width:100%;
-
-}
 
 #homepageimg{
   width:100%;
@@ -84,14 +90,14 @@ hr{
 }
 
 #logo{
-max-width: 3em;
+  width:5em;
 
 }
 
-/*
-text color: #382404
 
-#b7a076;
-
-
-*/
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+  padding-right: 0;
+  padding-left: 0;
+}
