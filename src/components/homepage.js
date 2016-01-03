@@ -17,7 +17,7 @@ var homepage = React.createClass({
                 <div className="item active">
 
                     <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:First slide" 
-                      alt="First slide" src="../assets/livingroomtwo.jpg"
+                      alt="First slide" src="../assets/livingroomtworect.jpg"
                       id='homepageimg'className='center-block img-responsive'/>
 
                     <div className="container">
@@ -30,7 +30,7 @@ var homepage = React.createClass({
                 </div>
 
                 <div className="item">
-                    <img data-src="holder.js/900x500/auto/#666:#6a6a6a/text:Second slide" alt="Second slide" src="../assets/bedroomone.jpg" id='homepageimg' className='center-block img-responsive'/>
+                    <img data-src="holder.js/900x500/auto/#666:#6a6a6a/text:Second slide" alt="Second slide" src="../assets/bedroomonerect.jpg" id='homepageimg' className='center-block img-responsive'/>
                     <div className="container">
                         <div className="carousel-caption">
                             <h1 className='text-center' id='carouseltxt'>
@@ -41,20 +41,8 @@ var homepage = React.createClass({
                     </div>
                 </div>
 
-                <div className="item">
-                    <img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Third slide" alt="Third slide" src="../assets/bathroomone.jpg" id='homepageimg' className='center-block img-responsive'/>
-                    <div className="container">
-                        <div className="carousel-caption"> 
-                          <h1 className='text-center' id='carouseltxt'>
-                            See more
-                          </h1>
-                            <p><Link className="btn btn-lg btn-primary" to="/gallery" role="button">Browse gallery</Link></p>
-                        </div>
-                    </div>
-                </div>
-
                  <div className="item">
-                    <img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Fourth slide" alt="Third slide" src="../assets/bedroomfive.jpg" id='homepageimg' className='center-block img-responsive'/>
+                    <img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Fourth slide" alt="Third slide" src="../assets/bedroomfiverect.jpg" id='homepageimg' className='center-block img-responsive'/>
                     <div className="container">
                         <div className="carousel-caption"> 
                           <h1 className='text-center' id='carouseltxt'>
@@ -66,7 +54,7 @@ var homepage = React.createClass({
                 </div>
 
                 <div className="item">
-                    <img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Fifth slide" alt="Third slide" src="../assets/livingroomsix.jpg" id='homepageimg' className='center-block img-responsive'/>
+                    <img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Fifth slide" alt="Third slide" src="../assets/livingroomsixrect.jpg" id='homepageimg' className='center-block img-responsive'/>
                     <div className="container">
                         <div className="carousel-caption"> 
                           <h1 className='text-center' id='carouseltxt'>
@@ -78,7 +66,7 @@ var homepage = React.createClass({
                 </div>
 
                 <div className="item">
-                    <img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Sixth slide" alt="Third slide" src="../assets/livingroomseven.jpg" id='homepageimg' className='center-block img-responsive'/>
+                    <img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Sixth slide" alt="Third slide" src="../assets/livingroomsevenrect.jpg" id='homepageimg' className='center-block img-responsive'/>
                     <div className="container">
                         <div className="carousel-caption"> 
                           <h1 className='text-center' id='carouseltxt'>

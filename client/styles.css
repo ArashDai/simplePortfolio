@@ -38,8 +38,7 @@ hr{
 
 #homepageimg{
   width:100%;
-  height:auto;
-  
+  max-height:70em;
 }
 
 #carouseltxt{
@@ -102,4 +101,15 @@ hr{
   margin-left: 0;
   padding-right: 0;
   padding-left: 0;
+}
+
+#modalImg{
+  width:100%;
+}
+
+#modalSize{
+  width:80%;
+}
+#modalStyles{
+  background-color: #FFEED0;
 }

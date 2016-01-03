@@ -6,7 +6,7 @@ var Services = React.createClass({
   render:function(){
     return(
       
-      <div className='container-fluid Card text-center row' id='contactpage'>
+      <div className='container-fluid Card text-center' id='contactpage'>
 
           <div className='container-fluid Card' >
         
@@ -16,8 +16,8 @@ var Services = React.createClass({
             </p>  
               <hr/>
             <div className='row'>
-              <img className='col-xs-12 col-sm-offset-1 col-sm-5' src='../assets/bathroomone.jpg' id='aboutpageimg'/>
-              <img className='hidden-xs col-sm-5' src='../assets/kitchenone.jpg' id='aboutpageimg'/>
+              <img className='col-xs-12 col-sm-offset-1 col-sm-5 img-responsive' src='../assets/kitchenbefore.jpg' id='aboutpageimg'/>
+              <img className='hidden-xs col-sm-5 img-responsive' src='../assets/kitchenafter.jpg' id='aboutpageimg'/>
             </div> 
                <hr/>
             <p className='text-center'>
