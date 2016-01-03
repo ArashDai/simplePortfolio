@@ -38,7 +38,8 @@ hr{
 
 #homepageimg{
   width:100%;
-  max-height:50em;
+  height:auto;
+  
 }
 
 #carouseltxt{
@@ -86,6 +87,7 @@ hr{
 
 #galleryimage{
   padding:.1em;
+  min-height: 13em;
 
 }
 

@@ -22,7 +22,7 @@ var Header = React.createClass({
             <span className="icon-bar"></span>
           </button>
           
-          <Link className="navbar-brand" to="/" id="navbarHeader">
+          <Link className="navbar-brand hidden-xs" to="/" id="navbarHeader">
             <img id='logo' src='../assets/button logo.png'/>
           </Link>
           
