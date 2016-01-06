@@ -14,9 +14,9 @@ var Services = React.createClass({
             </p>  
               <hr/>
             <div className='row'>
-              <img className='col-xs-12 col-sm-4 img-responsive' src='../assets/kitchentwo.jpg' id='aboutpageimg'/>
-              <img className='hidden-xs col-xs-12 col-sm-4 img-responsive' src='../assets/kitchenbefore.jpg' id='aboutpageimg'/>
-              <img className='hidden-xs col-sm-4 img-responsive' src='../assets/kitchenafter.jpg' id='aboutpageimg'/>
+              <img className='col-xs-12 col-sm-4 img-responsive' src='../assets/kitchentwo.jpg' id='servicepageimg'/>
+              <img className='hidden-xs col-xs-12 col-sm-4 img-responsive' src='../assets/kitchenbefore.jpg' id='servicepageimg'/>
+              <img className='hidden-xs col-sm-4 img-responsive' src='../assets/kitchenafter.jpg' id='servicepageimg'/>
             </div> 
                <hr/>
             <p className='text-center'>
