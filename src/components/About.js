@@ -14,7 +14,7 @@ var About = React.createClass({
         </p>  
        <hr/>
         <div className='row'>
-          <img className='col-xs-6 col-xs-offset-3' src='../assets/aboutus.jpg' id='aboutpageimg'/>
+          <img className='img-responsive center-block' src='../assets/aboutus.jpg' id='aboutpageimg'/>
          
         </div> 
        <hr/>
