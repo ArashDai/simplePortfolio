@@ -4,9 +4,7 @@ var React = require('react');
 var ContactUs = React.createClass({
 	render:function(){
 		return(
-			<div className='container-fluid' id='contactpage'>
-
-        <div className='container-fluid Card text-center' >
+			<div className='container-fluid Card text-center' id='contactpage'>
 
           <strong>Contact Us:</strong>
           <br></br>
@@ -17,8 +15,6 @@ var ContactUs = React.createClass({
           casa@twitter
           <br></br>
           casa.facebook
-
-        </div>
 
 			</div>
 			

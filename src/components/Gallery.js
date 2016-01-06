@@ -43,6 +43,12 @@ var Gallery = React.createClass({
           </a>  
           <a data-toggle="modal" href='#12'>
             <img id='galleryimage' src='../assets/kitchenafter.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+          </a>
+          <a data-toggle="modal" href='#13'>
+            <img id='galleryimage' src='../assets/bedroomtwo.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+          </a>
+          <a data-toggle="modal" href='#14'>
+            <img id='galleryimage' src='../assets/bedroomfour.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a> 
 
 
@@ -175,7 +181,28 @@ var Gallery = React.createClass({
                 </div>
               </div>
             </div>
+
+            <div className="modal fade" id="13">
+              <div className="modal-dialog modal-lg">
+                <div className="modal-content" id="modalStyles">
+                  
+                  <div className="modal-body">
+                    <img className="img-responsive" id='modalImg' src='../assets/bedroomtwo.jpg' />
+                  </div>
+                </div>
+              </div>
+            </div>
             
+            <div className="modal fade" id="13">
+              <div className="modal-dialog modal-lg">
+                <div className="modal-content" id="modalStyles">
+                  
+                  <div className="modal-body">
+                    <img className="img-responsive" id='modalImg' src='../assets/bedroomfour.jpg' />
+                  </div>
+                </div>
+              </div>
+            </div>
 
 
 

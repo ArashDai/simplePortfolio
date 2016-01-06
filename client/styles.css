@@ -38,7 +38,7 @@ hr{
 
 #homepageimg{
   width:100%;
-  max-height:70em;
+  max-height:50em;
 }
 
 #carouseltxt{
@@ -61,7 +61,7 @@ hr{
   color:#382404;
 }
 #aboutpageimg{
-  max-height: 13em;
+  height:13em;
 }
 #contactpage{
   margin-top:3.9em;
