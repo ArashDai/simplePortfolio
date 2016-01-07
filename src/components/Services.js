@@ -27,7 +27,6 @@ var Services = React.createClass({
               <br></br>
               Areas Served:  Greater Los Angeles
             </p>
-
            
       </div>
 
