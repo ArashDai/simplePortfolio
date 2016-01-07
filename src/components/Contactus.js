@@ -8,9 +8,9 @@ var ContactUs = React.createClass({
 
                          <strong>Contact Us:</strong>
                          <br></br>
-                         Email@website.com
+                         Lita.casahomestaging@gmail.com
                          <br></br>
-                         555 555 5555
+                         Silvia.casahomestaging@gmail.com
                          <br></br>
                          casa@twitter
                          <br></br>

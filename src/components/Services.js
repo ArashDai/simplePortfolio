@@ -10,7 +10,7 @@ var Services = React.createClass({
 
           
             <p className='text-center'>
-              Swiftly and economically furnish and accessorize a vacant property to appeal to potential buyers. CASA Home Staging preps a space by bringing in a professional home cleaning service to make the home sparkle.
+             Appeal to potential buyers by accessorizing a vacant property. Emphasize a fresh look or stylish space swiftly and economically.
             </p>  
               <hr/>
             <div className='row'>
@@ -22,7 +22,7 @@ var Services = React.createClass({
             </div> 
                <hr/>
             <p className='text-center'>
-             Emphasize a fresh look or stylish space with a change of scenery. From organization and finished carpentry to paint selection and complete furniture repurposing, CASA Home Staging redefines spaces and adds innovative character.
+             CASA Home Staging redefines spaces and adds innovative character. From organization and finished carpentry to paint selection, cleaning, and complete furniture repurposing.
               <br></br>
               <br></br>
               Areas Served:  Greater Los Angeles

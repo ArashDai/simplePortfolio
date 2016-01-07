@@ -17,11 +17,12 @@ body {
 #pageTitle {
   font-size: 36pt;
   color: #382404;
-  font-family:Niconne;
+  font-family:bookantique;
 }
 #pageSubTitle{
   font-size:20pt;
   color: #382404;
+  font-family:monotype;
 }
 
 hr{
@@ -108,6 +109,17 @@ hr{
 
 #modalImg{
   width:100%;
+}
+
+#tallImgModal{
+  
+  max-height: 20em;
+  
+}
+#tallImgGallery{
+   padding:.1em;
+   height: 13em;
+
 }
 
 #modalSize{

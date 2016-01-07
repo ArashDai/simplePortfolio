@@ -36,10 +36,10 @@ var Gallery = React.createClass({
             <img id='galleryimage' src='../assets/bedroomfive.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a>  
           <a data-toggle="modal" href='#10'>
-            <img id='galleryimage' src='../assets/livingroomseven.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+            <img id='galleryimage' src='../assets/livingroomsevenrect.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a>  
           <a data-toggle="modal" href='#11'>
-            <img id='galleryimage' src='../assets/livingroomsix.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+            <img id='galleryimage' src='../assets/livingroomsixrect.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a>  
           <a data-toggle="modal" href='#12'>
             <img id='galleryimage' src='../assets/kitchenafter.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
@@ -49,6 +49,9 @@ var Gallery = React.createClass({
           </a>
           <a data-toggle="modal" href='#14'>
             <img id='galleryimage' src='../assets/boysbedroom.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+          </a>
+          <a data-toggle="modal" href='#15'>
+            <img id='tallImgGallery' src='../assets/couch.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a> 
 
 
@@ -154,7 +157,7 @@ var Gallery = React.createClass({
                 <div className="modal-content" id="modalStyles">
                   
                   <div className="modal-body">
-                    <img className="img-responsive" id='modalImg' src='../assets/livingroomseven.jpg' />
+                    <img className="img-responsive" id='modalImg' src='../assets/livingroomsevenrect.jpg' />
                   </div>
                 </div>
               </div>
@@ -165,7 +168,7 @@ var Gallery = React.createClass({
                 <div className="modal-content" id="modalStyles">
                   
                   <div className="modal-body">
-                    <img className="img-responsive" id='modalImg' src='../assets/livingroomsix.jpg' />
+                    <img className="img-responsive" id='modalImg' src='../assets/livingroomsixrect.jpg' />
                   </div>
                 </div>
               </div>
@@ -193,12 +196,23 @@ var Gallery = React.createClass({
               </div>
             </div>
             
-            <div className="modal fade" id="13">
+            <div className="modal fade" id="14">
               <div className="modal-dialog modal-lg">
                 <div className="modal-content" id="modalStyles">
                   
                   <div className="modal-body">
                     <img className="img-responsive" id='modalImg' src='../assets/boysbedroom.jpg' />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="modal fade" id="15">
+              <div className="modal-dialog modal-lg">
+                <div className="modal-content" id="modalStyles">
+                  
+                  <div className="modal-body">
+                    <img className="img-responsive center-b" id='tallImgModal' src='../assets/couch.jpg' />
                   </div>
                 </div>
               </div>
