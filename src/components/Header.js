@@ -22,12 +22,12 @@ var Header = React.createClass({
             <span className="icon-bar"></span>
           </button>
           
-          <Link className="navbar-brand hidden-xs" to="/" id="navbarHeader">
+          <Link className="navbar-brand" to="/" id="navbarHeader">
             <img id='logo' src='../assets/button logo.png'/>
           </Link>
           
           <Link  to="/" className="navbar-brand" id="pageSubTitle">
-            <span id='pageTitle' ><b>CASA</b></span> Home Staging 
+            <span id='pageTitle' ><b>CASA</b></span> <span className='hidden-xs'>Home Staging </span>
           </Link>
         
         </div>

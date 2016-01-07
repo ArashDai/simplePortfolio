@@ -8,10 +8,18 @@ body {
   color:#382404;
   border:none;
 }
+#browntext{
+  color: #382404;
+}
 #navbarHeader {
 	background-color: #FFEED0;
 	color: #000000;
   display: inline;
+  padding-bottom: 0em;
+}
+
+#navbarHeader li a{
+padding-bottom:0;
 }
 
 #pageTitle {
@@ -39,13 +47,13 @@ hr{
 
 #homepageimg{
   width:100%;
-  max-height:50em;
+  /*max-height:50em;*/
 }
 
 #carouseltxt{
   font-family:'helvetica';
   color:white;
-  top:-9em;
+  margin-bottom: 2em;
 }
 #homepagetxt{
   width:100%;
@@ -76,8 +84,10 @@ hr{
   color:#382404;
 }
 .Card{
+  color:#382404;
+  font-family:'helvetica';
   background-color: #FFEED0;
-  width:95%;
+  width:100%;
   margin-bottom: 1em;
   margin-top: 1em;
   padding-top:1em; 
