@@ -30,7 +30,7 @@ var Gallery = React.createClass({
             <img id='galleryimage' src='../assets/kitchenone.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a>  
           <a data-toggle="modal" href='#8'>
-            <img id='galleryimage' src='../assets/livingroomthree.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+            <img id='tallImgGallery' src='../assets/livingroomthree.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a>
           <a data-toggle="modal" href='#9'>  
             <img id='galleryimage' src='../assets/bedroomfive.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
@@ -48,7 +48,7 @@ var Gallery = React.createClass({
             <img id='galleryimage' src='../assets/bedroomtwo.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a>
           <a data-toggle="modal" href='#14'>
-            <img id='galleryimage' src='../assets/boysbedroom.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+            <img id='tallImgGallery' src='../assets/boysbedroom.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a>
           <a data-toggle="modal" href='#15'>
             <img id='tallImgGallery' src='../assets/couch.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
