@@ -25,10 +25,10 @@ var Footer = React.createClass({
           
             <ul className="nav navbar-nav" id='myfooter'>
               <li data-toggle="collapse" data-target=".navbar-ex2-collapse">
-                  <Link to="/about">Facebook</Link>
+                  <a href="https://www.facebook.com/casahomestaging/"><img id='footerLogo' src='../assets/FB-f-Logo__blue_50.png'/></a>
               </li>
               <li data-toggle="collapse" data-target=".navbar-ex2-collapse">
-                  <Link to="/contactus">Twitter</Link>
+                  <a href="https://www.instagram.com/casahomestaging/"><img id='footerLogo' src='../assets/Glyph_Logo_png.png'/></a>
               </li>   
             </ul>
 

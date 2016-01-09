@@ -4,149 +4,145 @@ body {
     width:100%;
 }
 .btn{
-  background-color:white;
-  color:#382404;
-  border:none;
+    background-color:white;
+    color:#382404;
+    border:none;
 }
 #browntext{
-  color: #382404;
+    color: #382404;
 }
 #navbarHeader {
-	background-color: #FFEED0;
-	color: #000000;
-  display: inline;
-  padding-bottom: 0em;
+  	background-color: #FFEED0;
+    color: #000000;
+    display: inline;
+    padding-bottom: 0em;
 }
 
 #navbarHeader li a{
-padding-bottom:0;
+    padding-bottom:0;
 }
 
 #pageTitle {
-  font-size: 36pt;
-  color: #382404;
-  font-family:bookantique;
+    font-size: 36pt;
+    color: #382404;
+    font-family:bookantique;
 }
 #pageSubTitle{
-  font-size:20pt;
-  color: #382404;
-  font-family:monotype;
+    font-size:20pt;
+    color: #382404;
+    font-family:monotype;
 }
 
 
 hr{
-  background-color:brown;
-  border-color:#382404;
+    background-color:brown;
+    border-color:#382404;
 }
 
 #homepage{
-  margin-top:4.4em;
-  margin-bottom:3.9em;
-  width:100%;
+    margin-top:4.4em;
+    margin-bottom:3.9em;
+    width:100%;
 }
 
 
 #homepageimg{
-  width:100%;
-  /*max-height:50em;*/
+    width:100%;
 }
 
 #carouseltxt{
-  font-family:'helvetica';
-  color:white;
-  margin-bottom: 4em;
+    font-family:'helvetica';
+    color:white;
+    margin-bottom: 4em;
 }
 #homepagetxt{
-  width:100%;
-  font-family:'helvetica';
-  font-size:2em;
-  color:#382404;
+    width:100%;
+    font-family:'helvetica';
+    font-size:2em;
+    color:#382404;
 }
 #aboutpage{
-  margin-top:3.9em;
-  margin-bottom:3.9em;
-  width:100%;
-  font-family:'helvetica';
-  font-size:1.5em;
-  color:#382404;
+    margin-top:3.9em;
+    margin-bottom:3.9em;
+    width:100%;
+    font-family:'helvetica';
+    font-size:1.5em;
+    color:#382404;
 }
 #aboutpageimg{
-  height:25em;
+    height:25em;
 }
 #servicepageimg{
-  height:11em;
-  padding:0px;
+    height:11em;
+    padding:0px;
 }
 #contactpage{
-  margin-top:3.9em;
-  margin-bottom:3.9em;
-  width:100%;
-  font-family:'helvetica';
-  font-size:1.5em;
-  color:#382404;
+    margin-top:3.9em;
+    margin-bottom:3.9em;
+    width:100%;
+    font-family:'helvetica';
+    font-size:1.5em;
+    color:#382404;
 }
 .Card{
-  color:#382404;
-  font-family:'helvetica';
-  background-color: #FFEED0;
-  width:100%;
-  margin-bottom: 1em;
-  margin-top: 1em;
-  padding-top:1em; 
-  padding-bottom:1em;
+    color:#382404;
+    font-family:'helvetica';
+    background-color: #FFEED0;
+    width:100%;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding-top:1em; 
+    padding-bottom:1em;
 }
 #myfooter{
-  margin-left: 42%
+    margin-left: 46.5%
 }
 #footer{
-  background-color:#FFEED0; 
-  margin-bottom: 0px;
-
+    background-color:#FFEED0; 
+    margin-bottom: 0px;
 }
 
+#footerLogo{
+  max-height: 20px;
+  max-width: 20px;
+
+}
 #footer ul li{
-  background-color:#FFEED0; 
-  display:inline;
-  
+    background-color:#FFEED0; 
+    display:inline;
 }
 
 #galleryimage{
-  padding:.1em;
-  min-height: 13em;
-
+    padding:.1em;
+    min-height: 13em;
 }
 
 #logo{
-  width:5em;
-
+    width:5em;
 }
 
-
 .no-gutters {
-  margin-right: 0;
-  margin-left: 0;
-  padding-right: 0;
-  padding-left: 0;
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 0;
+    padding-left: 0;
 }
 
 #modalImg{
-  width:100%;
+    width:100%;
 }
 
 #tallImgModal{
-  
-  max-height: 20em;
-  
+    max-height: 20em;
 }
 #tallImgGallery{
-   padding:.1em;
-   height: 13em;
-
+    padding:.1em;
+    height: 13em;
 }
 
 #modalSize{
-  width:80%;
+    width:80%;
 }
 #modalStyles{
-  background-color: #FFEED0;
+    background-color: #FFEED0;
 }

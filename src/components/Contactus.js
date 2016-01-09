@@ -8,18 +8,17 @@ var ContactUs = React.createClass({
 
                          <strong>Contact Us:</strong>
                          <br></br>
-                              Lita.casahomestaging@gmail.com
+                              lita@casahomestaging.com                              
                          <br></br>
-                              Silvia.casahomestaging@gmail.com
+                              silvia@casahomestaging.com
                          <br></br>
                               Lita: 310-903-7184
                          <br></br>
                               Silvia: 310-863-1117
                          <br></br>
-                              casa@twitter
+                              <a href="https://www.instagram.com/casahomestaging">Instagram</a>
                          <br></br>
-                              casa.facebook
-
+                              <a href="https://www.facebook.com/casahomestaging">Facebook</a>
 			</div>
 			
 			)}
