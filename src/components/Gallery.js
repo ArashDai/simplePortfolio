@@ -60,7 +60,6 @@ var Gallery = React.createClass({
             <img id='galleryimage' src='../assets/kitchentwo.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a> 
 
-
             <div className="modal fade"  id="1">
               <div className="modal-dialog modal-lg" >
                 <div className="modal-content" id="modalStyles">

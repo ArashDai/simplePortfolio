@@ -36,8 +36,6 @@ var homepage = React.createClass({
                             <h1 className='text-center'>
                               ...Chic transformations
                             </h1>
-                            <p><Link className="btn btn-lg btn-primary" to="/services" role="button">Learn more</Link>
-                            </p>
                         </div>
                     </div>
                 </div>
@@ -47,10 +45,8 @@ var homepage = React.createClass({
                     <div className="container">
                         <div className="carousel-caption hidden-xs" id='carouseltxt'> 
                           <h1 className='text-center' >
-                            See more
+                           
                           </h1>
-                            <p><Link className="btn btn-lg btn-primary" to="/gallery" role="button">Browse gallery</Link>
-                            </p>
                         </div>
                     </div>
                 </div>
@@ -60,10 +56,8 @@ var homepage = React.createClass({
                     <div className="container">
                         <div className="carousel-caption hidden-xs" id='carouseltxt'> 
                           <h1 className='text-center' >
-                            See more
+                           
                           </h1>
-                            <p ><Link className="btn btn-lg btn-primary" to="/gallery" role="button">Browse gallery</Link>
-                            </p>
                         </div>
                     </div>
                 </div>
@@ -73,10 +67,8 @@ var homepage = React.createClass({
                     <div className="container">
                         <div className="carousel-caption hidden-xs" id='carouseltxt'> 
                           <h1 className='text-center'>
-                            See more
+                           
                           </h1>
-                            <p><Link className="btn btn-lg btn-primary" to="/gallery" role="button">Browse gallery</Link>
-                            </p>
                         </div>
                     </div>
                 </div>
