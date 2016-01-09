@@ -95,9 +95,19 @@ hr{
   padding-top:1em; 
   padding-bottom:1em;
 }
-
+#myfooter{
+  margin-left: 42%
+}
 #footer{
   background-color:#FFEED0; 
+  margin-bottom: 0px;
+
+}
+
+#footer ul li{
+  background-color:#FFEED0; 
+  display:inline;
+  
 }
 
 #galleryimage{
