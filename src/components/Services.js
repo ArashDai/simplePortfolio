@@ -14,7 +14,7 @@ var Services = React.createClass({
             </p>  
               <hr/>
             <div className='row'>
-                <div className='hidden-xs col-sm-3' data-toggle="modal" href='#a'>
+                <div className='hidden-xs col-sm-offset-3 col-sm-3' data-toggle="modal" href='#a'>
                   <img className='img-responsive' src='../assets/kitchenbefore.jpg' id='servicepageimg' />
                     <p className='text-center'>Before</p>
                 </div>
@@ -24,7 +24,7 @@ var Services = React.createClass({
                     <p className='text-center'>After</p>
                 </div> 
 
-                <div className='hidden-xs col-sm-3' data-toggle="modal" href='#c'>
+                <div className='hidden-xs  col-sm-offset-3 col-sm-3' data-toggle="modal" href='#c'>
                   <img className='img-responsive col-sm-12' src='../assets/masterbathbefore.jpg' id='servicepageimg'/>
                     <p className='text-center'>Before</p>
                 </div> 
