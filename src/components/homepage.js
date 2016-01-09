@@ -89,28 +89,12 @@ var homepage = React.createClass({
 
         <div className='Card center-block visible-xs'>
           <h1 className='text-center' >
-              ...Unlock inspiring visuals of stimulating spaces 
+              Unlock inspiring visuals of stimulating spaces 
           </h1>
-          <Link  to="/gallery">
-            <p className="text-center" id='browntext'>
-              See more
-            </p>
-          </Link>
-        </div>  
-        <div className='Card center-block visible-xs'>
+         
           <h1 className='text-center' >
-                              ...Chic transformations
+              Chic transformations
           </h1>
-          <Link  to="/services">
-            <p className="text-center" id='browntext'>
-              Learn more
-            </p>
-          </Link>
-
-
-
-
-          
 
         </div>
 

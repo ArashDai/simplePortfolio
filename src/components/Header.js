@@ -35,11 +35,21 @@ var Header = React.createClass({
         
         <div className="collapse navbar-collapse navbar-ex1-collapse  ">
           <ul className="nav navbar-nav text-center visible-xs" id="navbarHeader">
-            <li><Link to="/">Home</Link></li>
-            <li><Link to="/services">Services</Link></li>
-            <li><Link to="/about">About Us</Link></li>
-            <li><Link to="/gallery">Gallery</Link></li>
-            <li><Link to="/contactus">Contact Us</Link></li>
+            <li data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <Link to="/">Home</Link>
+            </li>
+            <li data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <Link to="/services">Services</Link>
+            </li>
+            <li data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <Link to="/about">About Us</Link>
+            </li>
+            <li data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <Link to="/gallery">Gallery</Link>
+            </li>
+            <li data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <Link to="/contactus">Contact Us</Link>
+            </li>
             
           </ul>
 

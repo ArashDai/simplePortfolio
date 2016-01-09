@@ -33,6 +33,7 @@ padding-bottom:0;
   font-family:monotype;
 }
 
+
 hr{
   background-color:brown;
   border-color:#382404;
@@ -74,6 +75,7 @@ hr{
 }
 #servicepageimg{
   height:11em;
+  padding:0px;
 }
 #contactpage{
   margin-top:3.9em;

@@ -22,12 +22,18 @@ var Footer = React.createClass({
       
         
         <div className="collapse navbar-collapse navbar-ex2-collapse">
-          <ul className="nav navbar-nav">
-            <li><Link to="/about">Facebook</Link></li>
-            <li><Link to="/contactus">Twitter</Link></li>   
-          </ul>
+          
+            <ul className="nav navbar-nav">
+              <li data-toggle="collapse" data-target=".navbar-ex2-collapse">
+                  <Link to="/about">Facebook</Link>
+              </li>
+              <li data-toggle="collapse" data-target=".navbar-ex2-collapse">
+                  <Link to="/contactus">Twitter</Link>
+              </li>   
+            </ul>
 
         </div>
+
       </nav>
     )}
 

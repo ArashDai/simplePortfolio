@@ -15,7 +15,7 @@ var Gallery = React.createClass({
             <img id='galleryimage' src='../assets/bedroomone.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a>
           <a data-toggle="modal" href='#3'>
-            <img id='galleryimage' src='../assets/bathroomone.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+            <img id='galleryimage' src='../assets/masterbathafter.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a>
           <a data-toggle="modal" href='#4'>
             <img id='galleryimage' src='../assets/livingroomfour.png' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
@@ -53,9 +53,12 @@ var Gallery = React.createClass({
           <a data-toggle="modal" href='#15'>
             <img id='tallImgGallery' src='../assets/couch.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
           </a>
-           <a data-toggle="modal" href='#16'>
+          <a data-toggle="modal" href='#16'>
             <img id='tallImgGallery' src='../assets/statue.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
-          </a>  
+          </a> 
+          <a data-toggle="modal" href='#17'>
+            <img id='galleryimage' src='../assets/kitchentwo.jpg' className='img-responsive col-xs-12 col-sm-4 col-md-3 col-lg-2'/>
+          </a> 
 
 
             <div className="modal fade"  id="1">
@@ -83,7 +86,7 @@ var Gallery = React.createClass({
                 <div className="modal-content" id="modalStyles">
                  
                   <div className="modal-body">
-                    <img className="img-responsive" id='modalImg' src='../assets/bathroomone.jpg' />
+                    <img className="img-responsive" id='modalImg' src='../assets/masterbathafter.jpg' />
                   </div>
                 </div>
               </div>
@@ -227,6 +230,17 @@ var Gallery = React.createClass({
                   
                   <div className="modal-body">
                     <img className="img-responsive center-block" id='tallImgModal' src='../assets/statue.jpg' />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="modal fade" id="17">
+              <div className="modal-dialog modal-lg">
+                <div className="modal-content" id="modalStyles">
+                  
+                  <div className="modal-body">
+                    <img className="img-responsive center-block" id='modalImg' src='../assets/kitchentwo.jpg' />
                   </div>
                 </div>
               </div>
